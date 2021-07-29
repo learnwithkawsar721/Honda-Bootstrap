@@ -113,6 +113,9 @@ button:focus {
     flex-direction: column !important;
     justify-content: start !important;
   }
+  .app-item {
+    max-width: 70% !important;
+  }
 }
 
 /* ==============Header Area================== */
